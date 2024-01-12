@@ -1,1 +1,1 @@
-var c=["Pulau Pinang"],c1=["Georgetown","Perai","Bukit Minyak"],arr=[c1];
+var c=["Pulau Pinang","Kedah","Perak","Kelantan","Terengganu","Pahang","Perlis","Kuala Lumpur","Selangor","Malacca","Johor","Negeri Sembilan","Sabah","Sarawak"],c1=["Georgetown","Perai","Bukit Minyak"],arr=[c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13];
