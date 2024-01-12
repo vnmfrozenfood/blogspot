@@ -1,0 +1,1 @@
+var c=["Pulau Pinang","Kedah","Perak","Kelantan","Terengganu","Pahang","Perlis","Kuala Lumpur","Selangor","Malacca","Johor","Negeri Sembilan","Sabah","Sarawak"],c1=["Ayer Itam"],arr=[c1];
