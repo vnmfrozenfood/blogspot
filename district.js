@@ -1,0 +1,1 @@
+var c=["Pulau Pinang"],c1=["Georgetown","Perai","Bukit Minyak"],arr=[c1];
