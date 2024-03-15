@@ -1,0 +1,299 @@
+{
+    "provinces": [
+        {
+            "id": 1,
+            "name": "Pulau Pinang",
+            "code": "1",
+            "country_id": 201
+        },
+        {
+            "id": 2,
+            "name": "Kedah",
+            "code": "2",
+            "country_id": 201
+        },
+        {
+            "id": 3,
+            "name": "Perak",
+            "code": "3",
+            "country_id": 201
+        },
+        {
+            "id": 4,
+            "name": "Kelantan",
+            "code": "4",
+            "country_id": 201
+        },
+        {
+            "id": 5,
+            "name": "Terengganu",
+            "code": "5",
+            "country_id": 201
+        },
+        {
+            "id": 6,
+            "name": "Pahang",
+            "code": "6",
+            "country_id": 201
+        },
+        {
+            "id": 7,
+            "name": "Perlis",
+            "code": "7",
+            "country_id": 201
+        },
+        {
+            "id": 8,
+            "name": "Kuala Lumpur",
+            "code": "8",
+            "country_id": 201
+        },
+        {
+            "id": 9,
+            "name": "Selangor",
+            "code": "9",
+            "country_id": 201
+        },
+        {
+            "id": 10,
+            "name": "Malacca",
+            "code": "10",
+            "country_id": 201
+        },
+        {
+            "id": 11,
+            "name": "Johor",
+            "code": "11",
+            "country_id": 201
+        },
+        {
+            "id": 12,
+            "name": "Negeri Sembilan",
+            "code": "12",
+            "country_id": 201
+        },
+        {
+            "id": 13,
+            "name": "Sabah",
+            "code": "13",
+            "country_id": 201
+        },
+        {
+            "id": 14,
+            "name": "Sarawak",
+            "code": "14",
+            "country_id": 201
+        }
+    ],
+    "districts": [
+        {
+            "id": 1,
+            "name": "Ayer Itam",
+            "code": "1",
+            "province_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Balik Pulau",
+            "code": "2",
+            "province_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Batu Ferringhi",
+            "code": "3",
+            "province_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Batu Maung",
+            "code": "4",
+            "province_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Bayan Lepas",
+            "code": "5",
+            "province_id": 1
+        },
+        {
+            "id": 6,
+            "name": "Bukit Mertajam",
+            "code": "6",
+            "province_id": 1
+        },
+        {
+            "id": 7,
+            "name": "Butterworth",
+            "code": "7",
+            "province_id": 1
+        },
+        {
+            "id": 8,
+            "name": "Gelugor",
+            "code": "8",
+            "province_id": 1
+        },
+        {
+            "id": 9,
+            "name": "Jelutong",
+            "code": "9",
+            "province_id": 1
+        },
+        {
+            "id": 10,
+            "name": "Kepala Batas",
+            "code": "10",
+            "province_id": 1
+        },
+        {
+            "id": 11,
+            "name": "Kubang Semang",
+            "code": "11",
+            "province_id": 1
+        },
+        {
+            "id": 12,
+            "name": "Nibong Tebal",
+            "code": "12",
+            "province_id": 1
+        },
+        {
+            "id": 13,
+            "name": "Penaga",
+            "code": "13",
+            "province_id": 1
+        },
+        {
+            "id": 14,
+            "name": "Penang Hill",
+            "code": "14",
+            "province_id": 1
+        },
+        {
+            "id": 15,
+            "name": "Perai",
+            "code": "15",
+            "province_id": 1
+        },
+        {
+            "id": 16,
+            "name": "Permatang Pauh",
+            "code": "16",
+            "province_id": 1
+        },
+        {
+            "id": 17,
+            "name": "Pulau Pinang",
+            "code": "17",
+            "province_id": 1
+        },
+        {
+            "id": 18,
+            "name": "Simpang Ampat",
+            "code": "18",
+            "province_id": 1
+        },
+        {
+            "id": 19,
+            "name": "Sungai Jawi",
+            "code": "19",
+            "province_id": 1
+        },
+        {
+            "id": 20,
+            "name": "Tanjong Bungah",
+            "code": "20",
+            "province_id": 1
+        },
+        {
+            "id": 21,
+            "name": "Tasek Gelugor",
+            "code": "21",
+            "province_id": 1
+        },
+        {
+            "id": 22,
+            "name": "USM Pulau Pinang",
+            "code": "22",
+            "province_id": 1
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 2
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 3
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 4
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 5
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 6
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 7
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 8
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 9
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 10
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 11
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 12
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 13
+        },
+        {
+            "id": 1,
+            "name": "Na",
+            "code": "30",
+            "province_id": 14
+        }
+    ],
